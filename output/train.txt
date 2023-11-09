@@ -44,3 +44,18 @@
 	Layer_5:0.09765878875806319
 	Embedding_singular:31
 
+[2023-11-09 08:33:53,922, DEBUG] : 
+	epoch:0
+	global_step:5
+	learning_rate:2.5591810620601407e-08
+	loss:6.0908660888671875
+	acc:0.1875
+	time:23
+	Layer_0:0.06583247528050906
+	Layer_1:0.0
+	Layer_2:0.012213561368866088
+	Layer_3:0.0
+	Layer_4:0.0
+	Layer_5:0.0
+	Embedding_singular:26
+
